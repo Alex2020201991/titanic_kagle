@@ -2,7 +2,7 @@
 
 **In this challenge, we are going to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).**
 
-**In this project we used data visualization and machine learning.**!
+**In this project we used data visualization and machine learning (Logistic regression, Random forest, Adaboost Ensemble, Bagging classifier, Gradient Boost classifier**
 
 
 
