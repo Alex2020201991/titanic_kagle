@@ -3,4 +3,5 @@
 **In this project we used data visualization and machine learning.**!
 
 
-![maxresdefault](https://user-images.githubusercontent.com/73969654/152839957-4b1699ec-49f2-42ed-a4ab-9a6b9b046991.jpg)
+
+![titanic-feat1](https://user-images.githubusercontent.com/73969654/152840154-3af3e3c7-8383-4d04-b947-a1a263632836.jpg)
