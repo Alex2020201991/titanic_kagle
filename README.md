@@ -3,4 +3,4 @@
 **In this project we used data visualization and machine learning.**!
 
 
-https://user-images.githubusercontent.com/73969654/152839630-d07424ee-b34d-4afd-a71c-67423e607298.jpg
+![maxresdefault](https://user-images.githubusercontent.com/73969654/152839957-4b1699ec-49f2-42ed-a4ab-9a6b9b046991.jpg)
